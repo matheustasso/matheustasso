@@ -1,4 +1,4 @@
-### Hi there, I'm Matheus Tasso - a.k.a [Tasso][website] 👋
+### Hi there, I'm Matheus Tasso - a.k.a [Tasso] 👋
 
 [![Website](https://trooperfitness.com/wp-content/uploads/2016/02/pf_bg_dark_photo-256x256.png)](https://matheustasso.github.io)
 
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="matheustasso.github.io" width="22px" src="https://matheustasso.github.io" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/matheustasso/" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/matheustasso" />][instagram]
+<img align="left" alt="matheustasso.github.io" width="22px" src="https://matheustasso.github.io" />
+<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/matheustasso/" />
+<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/matheustasso" />
 
 <br />
 
