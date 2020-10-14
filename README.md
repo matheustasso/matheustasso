@@ -12,7 +12,9 @@
 ### Connect with me:
 
 <img align="left" alt="matheustasso.github.io" width="22px" src="https://e7.pngegg.com/pngimages/598/963/png-clipart-black-logo-computer-icons-web-page-world-wide-web-web-design-globe.png" />[Website](https://matheustasso.github.io)
+<br />
 <img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" />[LinkedIn](https://www.linkedin.com/in/matheustasso/)
+<br />
 <img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/87/87390.png" />[Instagram](https://www.instagram.com/matheustasso/)
 
 <br />
