@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="matheustasso.github.io" width="22px" src="https://e7.pngegg.com/pngimages/598/963/png-clipart-black-logo-computer-icons-web-page-world-wide-web-web-design-globe.png" />[Website](https://matheustasso.github.io)
+<img align="left" alt="matheustasso.github.io" width="22px" src="https://e7.pngegg.com/pngimages/598/963/png-clipart-black-logo-computer-icons-web-page-world-wide-web-web-design-globe.png" />[Dribbble](dribbble.com/matheustasso)
 <br />
 <br />
 <img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" />[LinkedIn](https://www.linkedin.com/in/matheustasso/)
