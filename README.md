@@ -1,7 +1,5 @@
 ### Hi there, I'm Matheus Tasso - a.k.a [Tasso] 👋
 
-[![Website](https://trooperfitness.com/wp-content/uploads/2016/02/pf_bg_dark_photo-256x256.png)](dribbble.com/matheustasso)
-
 ## I'm a Product Designer and I'm renewing my studies in programming in order to link everything I know and learned about UX/UI and good design practices within the mobile ecosystem.
 
 - 🔭 Graduating in Arts from the Federal University of Bahia - UFBA.
