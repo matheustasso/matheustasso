@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus Tasso - a.k.a [Tasso] 👋
 
-## I'm a Product Designer and I'm renewing my studies in programming in order to link everything I know and learned about UX/UI and good design practices within the mobile ecosystem.
+## I'm a Product Designer and I'm renewing my studies in programming in order to link everything I know and learned about UX/UI and good design practices within the web ecosystem.
 
 - 🔭 Graduating in Arts from the Federal University of Bahia - UFBA.
 - 🌱 I've been working as a Product Designer for 2 years and I've been working with digital products since 2018.
