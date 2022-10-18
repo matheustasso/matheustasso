@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="matheustasso.github.io" width="22px" src="[https://cdn-icons-png.flaticon.com/512/408/408743.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGxtNIAOsqcsKlKPh7E3OhqKBbdHEzqBgJaYdZuSr8Yi6i_OgtotIjX6S3olww0Rz7d4&usqp=CAU)" />[Website](matheustasso.com)
+<img align="left" alt="matheustasso.github.io" width="22px" src="https://img.icons8.com/fluency/344/domain.png" />[Website](matheustasso.com)
 <br />
 <br />
 <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />[LinkedIn](https://www.linkedin.com/in/matheustasso/)
